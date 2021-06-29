@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322810763846",
+    "firebase_url": "https://swsauth.firebaseio.com",
+    "project_id": "swsauth",
+    "storage_bucket": "swsauth.appspot.com"
+  },
+  "client": [
+    
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322810763846:android:cb33941751f89efa3f8847",
+        "android_client_info": {
+          "package_name": "com.sws.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322810763846-k98naf4q90gmo4dijm8stivt9689fgmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3etoYB-E0NqMomXXa3_oQOdQIrMbymiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322810763846-k98naf4q90gmo4dijm8stivt9689fgmq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322810763846-fflrv67c9t3s1th26eaadhtc9aeutqf8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sws.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
